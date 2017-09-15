@@ -18,7 +18,7 @@ namespace Netcoregithub
                 .UseApplicationInsights()
                 .Build();
 
-            host.Run();
+            host.Run(); 
         }
     }
 }
